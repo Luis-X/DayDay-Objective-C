@@ -1,0 +1,26 @@
+//
+//  LuisXPrefixHeader.pch
+//  LuisXKit
+//
+//  Created by LuisX on 16/8/19.
+//  Copyright © 2016年 LuisX. All rights reserved.
+//
+
+#ifndef LuisXPrefixHeader_pch
+#define LuisXPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <Masonry.h>
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <DateTools.h>
+#import "LuisXKit.h"
+#import "LuisXRouterManager.h"
+#import <AsyncDisplayKit.h>
+#import <iCarousel/iCarousel.h>
+#import "UITableView+FDTemplateLayoutCell.h"
+
+#import "GoodsDetailConstant.h"
+#endif /* LuisXPrefixHeader_pch */
