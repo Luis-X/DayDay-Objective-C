@@ -21,6 +21,7 @@
 #import <AsyncDisplayKit.h>
 #import <iCarousel/iCarousel.h>
 #import "UITableView+FDTemplateLayoutCell.h"
+#import "SJUIKit.h"
 
 #import "GoodsDetailConstant.h"
 #endif /* LuisXPrefixHeader_pch */

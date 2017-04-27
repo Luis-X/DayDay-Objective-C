@@ -192,6 +192,20 @@
 		D11898511EA88D5E00223BEB /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D11898501EA88D5E00223BEB /* AVFoundation.framework */; };
 		D11898531EA88D6800223BEB /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D11898521EA88D6800223BEB /* JavaScriptCore.framework */; };
 		D11898551EA88D7600223BEB /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D11898541EA88D7600223BEB /* libz.tbd */; };
+		D11898631EA8AA8A00223BEB /* Login_Selete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D11898571EA8AA8A00223BEB /* Login_Selete@2x.png */; };
+		D11898641EA8AA8A00223BEB /* Login_Selete@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D11898581EA8AA8A00223BEB /* Login_Selete@3x.png */; };
+		D11898651EA8AA8A00223BEB /* Login_unSelete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D11898591EA8AA8A00223BEB /* Login_unSelete@2x.png */; };
+		D11898661EA8AA8A00223BEB /* Login_unSelete@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D118985A1EA8AA8A00223BEB /* Login_unSelete@3x.png */; };
+		D11898671EA8AA8A00223BEB /* Login_weixin_Selete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D118985B1EA8AA8A00223BEB /* Login_weixin_Selete@2x.png */; };
+		D11898681EA8AA8A00223BEB /* Login_weixin_Selete@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D118985C1EA8AA8A00223BEB /* Login_weixin_Selete@3x.png */; };
+		D11898691EA8AA8A00223BEB /* Login_weixin_unSelete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D118985D1EA8AA8A00223BEB /* Login_weixin_unSelete@2x.png */; };
+		D118986A1EA8AA8A00223BEB /* Login_weixin_unSelete@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D118985E1EA8AA8A00223BEB /* Login_weixin_unSelete@3x.png */; };
+		D118986B1EA8AA8A00223BEB /* Login_ZFB_Selete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D118985F1EA8AA8A00223BEB /* Login_ZFB_Selete@2x.png */; };
+		D118986C1EA8AA8A00223BEB /* Login_ZFB_Selete@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D11898601EA8AA8A00223BEB /* Login_ZFB_Selete@3x.png */; };
+		D118986D1EA8AA8A00223BEB /* Login_ZFB_unSelete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D11898611EA8AA8A00223BEB /* Login_ZFB_unSelete@2x.png */; };
+		D118986E1EA8AA8A00223BEB /* Login_ZFB_unSelete@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D11898621EA8AA8A00223BEB /* Login_ZFB_unSelete@3x.png */; };
+		D11898711EA8AFE400223BEB /* PaySelectedOptionView.m in Sources */ = {isa = PBXBuildFile; fileRef = D11898701EA8AFE400223BEB /* PaySelectedOptionView.m */; };
+		D18297631EB0AD4900A61C35 /* SJUIKit.m in Sources */ = {isa = PBXBuildFile; fileRef = D18297611EB0AD4900A61C35 /* SJUIKit.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -518,6 +532,22 @@
 		D11898501EA88D5E00223BEB /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		D11898521EA88D6800223BEB /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		D11898541EA88D7600223BEB /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		D11898571EA8AA8A00223BEB /* Login_Selete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_Selete@2x.png"; sourceTree = "<group>"; };
+		D11898581EA8AA8A00223BEB /* Login_Selete@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_Selete@3x.png"; sourceTree = "<group>"; };
+		D11898591EA8AA8A00223BEB /* Login_unSelete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_unSelete@2x.png"; sourceTree = "<group>"; };
+		D118985A1EA8AA8A00223BEB /* Login_unSelete@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_unSelete@3x.png"; sourceTree = "<group>"; };
+		D118985B1EA8AA8A00223BEB /* Login_weixin_Selete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_weixin_Selete@2x.png"; sourceTree = "<group>"; };
+		D118985C1EA8AA8A00223BEB /* Login_weixin_Selete@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_weixin_Selete@3x.png"; sourceTree = "<group>"; };
+		D118985D1EA8AA8A00223BEB /* Login_weixin_unSelete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_weixin_unSelete@2x.png"; sourceTree = "<group>"; };
+		D118985E1EA8AA8A00223BEB /* Login_weixin_unSelete@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_weixin_unSelete@3x.png"; sourceTree = "<group>"; };
+		D118985F1EA8AA8A00223BEB /* Login_ZFB_Selete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_ZFB_Selete@2x.png"; sourceTree = "<group>"; };
+		D11898601EA8AA8A00223BEB /* Login_ZFB_Selete@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_ZFB_Selete@3x.png"; sourceTree = "<group>"; };
+		D11898611EA8AA8A00223BEB /* Login_ZFB_unSelete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_ZFB_unSelete@2x.png"; sourceTree = "<group>"; };
+		D11898621EA8AA8A00223BEB /* Login_ZFB_unSelete@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Login_ZFB_unSelete@3x.png"; sourceTree = "<group>"; };
+		D118986F1EA8AFE400223BEB /* PaySelectedOptionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PaySelectedOptionView.h; sourceTree = "<group>"; };
+		D11898701EA8AFE400223BEB /* PaySelectedOptionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PaySelectedOptionView.m; sourceTree = "<group>"; };
+		D18297601EB0AD4900A61C35 /* SJUIKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJUIKit.h; sourceTree = "<group>"; };
+		D18297611EB0AD4900A61C35 /* SJUIKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJUIKit.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -596,11 +626,11 @@
 			children = (
 				D11895A31EA88AFC00223BEB /* Bundle */,
 				D11895A51EA88AFC00223BEB /* Font */,
+				D118974F1EA88AFC00223BEB /* Util */,
 				D11895A71EA88AFC00223BEB /* HomeNaViewController.h */,
 				D11895A81EA88AFC00223BEB /* HomeNaViewController.m */,
 				D11895A91EA88AFC00223BEB /* LuisXPrefixHeader.pch */,
 				D11895AA1EA88AFC00223BEB /* Objective-C */,
-				D118974F1EA88AFC00223BEB /* Util */,
 				D11895731EA889D600223BEB /* AppDelegate.h */,
 				D11895741EA889D600223BEB /* AppDelegate.m */,
 				D11895761EA889D600223BEB /* ViewController.h */,
@@ -962,6 +992,7 @@
 		D11896271EA88AFC00223BEB /* SJUIKit */ = {
 			isa = PBXGroup;
 			children = (
+				D182975D1EB0AD4900A61C35 /* SJUIKit */,
 				D11896281EA88AFC00223BEB /* SJScrollPageView */,
 			);
 			path = SJUIKit;
@@ -1206,8 +1237,11 @@
 		D11896951EA88AFC00223BEB /* BugVideo */ = {
 			isa = PBXGroup;
 			children = (
+				D11898561EA8AA0000223BEB /* ReSource */,
 				D11896961EA88AFC00223BEB /* BugVideoViewController.h */,
 				D11896971EA88AFC00223BEB /* BugVideoViewController.m */,
+				D118986F1EA8AFE400223BEB /* PaySelectedOptionView.h */,
+				D11898701EA8AFE400223BEB /* PaySelectedOptionView.m */,
 			);
 			path = BugVideo;
 			sourceTree = "<group>";
@@ -1858,6 +1892,34 @@
 			path = Resource;
 			sourceTree = "<group>";
 		};
+		D11898561EA8AA0000223BEB /* ReSource */ = {
+			isa = PBXGroup;
+			children = (
+				D11898571EA8AA8A00223BEB /* Login_Selete@2x.png */,
+				D11898581EA8AA8A00223BEB /* Login_Selete@3x.png */,
+				D11898591EA8AA8A00223BEB /* Login_unSelete@2x.png */,
+				D118985A1EA8AA8A00223BEB /* Login_unSelete@3x.png */,
+				D118985B1EA8AA8A00223BEB /* Login_weixin_Selete@2x.png */,
+				D118985C1EA8AA8A00223BEB /* Login_weixin_Selete@3x.png */,
+				D118985D1EA8AA8A00223BEB /* Login_weixin_unSelete@2x.png */,
+				D118985E1EA8AA8A00223BEB /* Login_weixin_unSelete@3x.png */,
+				D118985F1EA8AA8A00223BEB /* Login_ZFB_Selete@2x.png */,
+				D11898601EA8AA8A00223BEB /* Login_ZFB_Selete@3x.png */,
+				D11898611EA8AA8A00223BEB /* Login_ZFB_unSelete@2x.png */,
+				D11898621EA8AA8A00223BEB /* Login_ZFB_unSelete@3x.png */,
+			);
+			path = ReSource;
+			sourceTree = "<group>";
+		};
+		D182975D1EB0AD4900A61C35 /* SJUIKit */ = {
+			isa = PBXGroup;
+			children = (
+				D18297601EB0AD4900A61C35 /* SJUIKit.h */,
+				D18297611EB0AD4900A61C35 /* SJUIKit.m */,
+			);
+			path = SJUIKit;
+			sourceTree = "<group>";
+		};
 		F77D50EC454DFC75CE8A51AB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -1980,6 +2042,7 @@
 				D11897A91EA88AFD00223BEB /* title4@2x.png in Resources */,
 				D118979F1EA88AFD00223BEB /* bigLogo@2x.png in Resources */,
 				D11898431EA88C5400223BEB /* like@2x.png in Resources */,
+				D118986D1EA8AA8A00223BEB /* Login_ZFB_unSelete@2x.png in Resources */,
 				D11897A51EA88AFD00223BEB /* skipButton@2x.png in Resources */,
 				D11895801EA889D600223BEB /* LaunchScreen.storyboard in Resources */,
 				D11897EA1EA88AFD00223BEB /* home_share_normal@2x.png in Resources */,
@@ -1990,7 +2053,10 @@
 				D11897EB1EA88AFD00223BEB /* home_share_normal@3x.png in Resources */,
 				D118957D1EA889D600223BEB /* Assets.xcassets in Resources */,
 				D11897A81EA88AFD00223BEB /* title3@2x.png in Resources */,
+				D11898671EA8AA8A00223BEB /* Login_weixin_Selete@2x.png in Resources */,
+				D11898661EA8AA8A00223BEB /* Login_unSelete@3x.png in Resources */,
 				D11897E81EA88AFD00223BEB /* home_share_close_button@3x.png in Resources */,
+				D11898651EA8AA8A00223BEB /* Login_unSelete@2x.png in Resources */,
 				D11897E91EA88AFD00223BEB /* home_share_normal.png in Resources */,
 				D118983D1EA88C5400223BEB /* DBDetailViews.js in Resources */,
 				D11898381EA88C5400223BEB /* main.js in Resources */,
@@ -2001,13 +2067,18 @@
 				D11898411EA88C5400223BEB /* DBUserViews.js in Resources */,
 				D11898441EA88C5400223BEB /* view@2x.png in Resources */,
 				D11898421EA88C5400223BEB /* comment@2x.png in Resources */,
+				D118986E1EA8AA8A00223BEB /* Login_ZFB_unSelete@3x.png in Resources */,
 				D11897A71EA88AFD00223BEB /* title2@2x.png in Resources */,
+				D11898691EA8AA8A00223BEB /* Login_weixin_unSelete@2x.png in Resources */,
 				D11897A41EA88AFD00223BEB /* pageDot@2x.png in Resources */,
 				D11897E11EA88AFD00223BEB /* home_bitmap.png in Resources */,
+				D118986A1EA8AA8A00223BEB /* Login_weixin_unSelete@3x.png in Resources */,
 				D11897EF1EA88AFD00223BEB /* home_top_bg.png in Resources */,
 				D11898091EA88AFD00223BEB /* TZImagePickerController.bundle in Resources */,
 				D118979B1EA88AFD00223BEB /* bg1@2x.png in Resources */,
+				D11898681EA8AA8A00223BEB /* Login_weixin_Selete@3x.png in Resources */,
 				D11898111EA88AFD00223BEB /* MVCommonUI.bundle in Resources */,
+				D11898641EA8AA8A00223BEB /* Login_Selete@3x.png in Resources */,
 				D11897E61EA88AFD00223BEB /* home_share_close_button.png in Resources */,
 				D11898401EA88C5400223BEB /* DBUserController.js in Resources */,
 				D11897EC1EA88AFD00223BEB /* home_share_selected.png in Resources */,
@@ -2024,11 +2095,14 @@
 				D11897A11EA88AFD00223BEB /* icon2@2x.png in Resources */,
 				D11898141EA88AFD00223BEB /* luisx_book@2x.png in Resources */,
 				D11897E71EA88AFD00223BEB /* home_share_close_button@2x.png in Resources */,
+				D11898631EA8AA8A00223BEB /* Login_Selete@2x.png in Resources */,
+				D118986C1EA8AA8A00223BEB /* Login_ZFB_Selete@3x.png in Resources */,
 				D118983B1EA88C5400223BEB /* DBDataSource.js in Resources */,
 				D11897A31EA88AFD00223BEB /* pageDot.png in Resources */,
 				D11897F11EA88AFD00223BEB /* home_top_bg@3x.png in Resources */,
 				D11897E41EA88AFD00223BEB /* home_cell_bottom_bg.png in Resources */,
 				D11898371EA88C5400223BEB /* JPViewController.js in Resources */,
+				D118986B1EA8AA8A00223BEB /* Login_ZFB_Selete@2x.png in Resources */,
 				D11898461EA88C5400223BEB /* tmpData.js in Resources */,
 				D118979D1EA88AFD00223BEB /* bg3@2x.png in Resources */,
 				D11897ED1EA88AFD00223BEB /* home_share_selected@2x.png in Resources */,
@@ -2188,6 +2262,7 @@
 				D118980F1EA88AFD00223BEB /* UIView+Layout.m in Sources */,
 				D11897FA1EA88AFD00223BEB /* NewMainViewController.m in Sources */,
 				D11897861EA88AFD00223BEB /* CustomAlertViewController.m in Sources */,
+				D11898711EA8AFE400223BEB /* PaySelectedOptionView.m in Sources */,
 				D11897681EA88AFD00223BEB /* KVOViewController.m in Sources */,
 				D11897F31EA88AFD00223BEB /* HomePageManageView.m in Sources */,
 				D11897641EA88AFD00223BEB /* HomeViewController.m in Sources */,
@@ -2206,6 +2281,7 @@
 				D118980E1EA88AFD00223BEB /* TZVideoPlayerController.m in Sources */,
 				D118976E1EA88AFD00223BEB /* RuntimeViewController.m in Sources */,
 				D11897921EA88AFD00223BEB /* SJTimeButton.m in Sources */,
+				D18297631EB0AD4900A61C35 /* SJUIKit.m in Sources */,
 				D11897FD1EA88AFD00223BEB /* ProductCommentView.m in Sources */,
 				D11897961EA88AFD00223BEB /* AsyncViewController.m in Sources */,
 				D11897CE1EA88AFD00223BEB /* ParallaxHeaderView.m in Sources */,
@@ -2377,7 +2453,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/DayDayObjectiveC/Objective-C/JSPatch(热修复)",
 				);
-				GCC_PREFIX_HEADER = /Users/luisx/Desktop/DayDayObjectiveC/DayDayObjectiveC/LuisXPrefixHeader.pch;
+				GCC_PREFIX_HEADER = "${SRCROOT}/DayDayObjectiveC/LuisXPrefixHeader.pch";
 				INFOPLIST_FILE = DayDayObjectiveC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.luisx.DayDayObjectiveC;
@@ -2394,7 +2470,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/DayDayObjectiveC/Objective-C/JSPatch(热修复)",
 				);
-				GCC_PREFIX_HEADER = /Users/luisx/Desktop/DayDayObjectiveC/DayDayObjectiveC/LuisXPrefixHeader.pch;
+				GCC_PREFIX_HEADER = "${SRCROOT}/DayDayObjectiveC/LuisXPrefixHeader.pch";
 				INFOPLIST_FILE = DayDayObjectiveC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.luisx.DayDayObjectiveC;

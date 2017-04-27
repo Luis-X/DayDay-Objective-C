@@ -49,7 +49,7 @@
 
 - (void)initailData{
     
-    _allHomeDataArr = @[@"二维码合成", @"图像选择", @"中央文案", @"首页新版", @"视图", @"分页", @"Loading", @"商品详情优化",  @"分类", @"lazy商品详情优化", @"BUG录制"];
+    _allHomeDataArr = @[@"二维码合成", @"图像选择", @"中央文案", @"首页新版", @"视图", @"分页", @"Loading", @"商品详情优化",  @"分类", @"lazy商品详情优化", @"支付面板"];
     
 }
 
@@ -139,7 +139,7 @@
         [LuisXRouterManager showAnyViewControllerWithRouterURL:ROUTRE_PRODUCT AddedNavigationController:self.navigationController];
     }
     
-    if (indexPath.section == 0 && indexPath.row == 9) {
+    if (indexPath.section == 0 && indexPath.row == 10) {
         [LuisXRouterManager showAnyViewControllerWithRouterURL:ROUTRE_BUGVIDEO AddedNavigationController:self.navigationController];
     }
     
